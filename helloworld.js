@@ -11,3 +11,7 @@ var func2 =function() {
 var obj = {}; 
 
 var obj2 = {};
+
+var obj3 = {
+  m: 1
+};
