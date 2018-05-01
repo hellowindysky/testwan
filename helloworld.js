@@ -9,3 +9,5 @@ var func2 =function() {
 };
 
 var obj = {}; 
+
+var obj2 = {};
