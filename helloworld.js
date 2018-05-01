@@ -15,3 +15,7 @@ var obj2 = {};
 var obj3 = {
   m: 1
 };
+
+var obj4 = {
+  d: 1
+};
