@@ -4,4 +4,6 @@ var func =function() {
 
 var func2 =function() {
   // zai zq
+  // zai zq shang
+  // zai zq shang
 };
